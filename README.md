@@ -1,4 +1,4 @@
 # vijayr-demo
 This is my first Git Repository.
 <br>
-Author - Vijay Rathore
+Author - Vijay (devloper)
